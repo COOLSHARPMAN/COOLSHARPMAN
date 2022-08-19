@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @COOLSHARPMAN
 - 👀 I’m interested in python,his
 - 🌱 I’m currently learning vue
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on his_system,pay_station
 - 📫 How to reach me wechat:Tifull  qq:28870826
 
 <!---
